@@ -5,20 +5,20 @@ PicCam is a lightweight app that changes an image based on your microphone’s v
 
 🔊 What It Does
 
--- Listens to your microphone in real time
+- Listens to your microphone in real time
 
--- Detects the current sound volume
+- Detects the current sound volume
 
--- Switches the displayed image depending on loudness
+- Switches the displayed image depending on loudness
 
--- Great for streamers, interactive videos, sound visualizations, or just for fun
+- Great for streamers, interactive videos, sound visualizations, or just for fun
 
 ⚙️ Features
 
--- 🎚️ Customizable volume thresholds
+- 🎚️ Customizable volume thresholds
 
--- 🖼️ Support for changing images
+- 🖼️ Support for changing images
 
--- 💻 Simple GUI
+- 💻 Simple GUI
 
--- 🪶 Lightweight and fast — minimal dependencies
+- 🪶 Lightweight and fast — minimal dependencies
