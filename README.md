@@ -3,7 +3,7 @@
 
 PicCam is a lightweight app that changes an image based on your microphone’s volume level. The louder the sound — the more dynamic the picture!
 
-🔊 What It Does
+# 🔊 What It Does
 
 - Listens to your microphone in real time
 
@@ -13,7 +13,7 @@ PicCam is a lightweight app that changes an image based on your microphone’s v
 
 - Great for streamers, interactive videos, sound visualizations, or just for fun
 
-⚙️ Features
+# ⚙️ Features
 
 - 🎚️ Customizable volume thresholds
 
@@ -22,3 +22,32 @@ PicCam is a lightweight app that changes an image based on your microphone’s v
 - 💻 Simple GUI
 
 - 🪶 Lightweight and fast — minimal dependencies
+
+# 🚀 Installation
+
+```sh
+$ git clone https://github.com/username/PicCam.git
+cd PicCam
+pip install -r requirements.txt
+```
+
+# ▶️ Usage
+Run with python3:
+```sh
+$ python3 PicCam.pyw
+```
+
+# 📸 Screenshots
+## When silent:
+<img width="702" height="632" alt="2025_11_04_11_14_20" src="https://github.com/user-attachments/assets/8d2064d3-ea8e-4150-b3e6-2843c7d0751d" />
+
+## When lound:
+<img width="702" height="632" alt="2025_11_04_11_14_35" src="https://github.com/user-attachments/assets/acd44b31-dce2-4eef-b446-9d1a4165e4f1" />
+
+# 🧩 Requirements
+- Python 3.8+
+- Libraries: *tkinter, sounddevice, numpy, os*
+
+# 👋 Author
+
+Created by [dendi312903](https://github.com/dendi312903) 😀
