@@ -1,5 +1,4 @@
-# PicCam
-🎥 PicCam
+# 🎥 PicCam
 
 PicCam is a lightweight app that changes an image based on your microphone’s volume level.
 
