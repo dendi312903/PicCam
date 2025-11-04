@@ -25,7 +25,7 @@ PicCam is a lightweight app that changes an image based on your microphone’s v
 # 🚀 Installation
 
 ```sh
-$ git clone https://github.com/username/PicCam.git
+$ git clone https://github.com/dendi312903/PicCam.git
 cd PicCam
 pip install -r requirements.txt
 ```
