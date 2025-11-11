@@ -40,7 +40,7 @@ $ python3 PicCam.pyw
 ## When silent:
 <img width="702" height="632" alt="2025_11_04_11_14_20" src="https://github.com/user-attachments/assets/8d2064d3-ea8e-4150-b3e6-2843c7d0751d" />
 
-## When lound:
+## When loud:
 <img width="702" height="632" alt="2025_11_04_11_14_35" src="https://github.com/user-attachments/assets/acd44b31-dce2-4eef-b446-9d1a4165e4f1" />
 
 # 🧩 Requirements
